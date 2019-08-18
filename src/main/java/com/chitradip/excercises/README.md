@@ -28,7 +28,9 @@ Given a list of strings, convert into one string such that you can convert it ba
 1. toString() should convert ["cat", "dogs", "giraffes" ] to "\<Some String\>"
 2. fromString() should convert "\<Some String\>" to ["cat", "dogs", "giraffes" ]
 
-The format of <Some String> is upto the user
+The format of <Some String> is upto the user.
+
+[Code](./arraySerialization)
 
 ## Ordered Powers of Primes
 
