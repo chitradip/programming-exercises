@@ -38,12 +38,13 @@ Given a prime number generator, give me a ordered list of their powers upto a gi
 
 For 10, list should be like 
 
-orderedPrimes(10) = [2, 3, 4, 5, 7, 8, 9, 16, 25, 27]
+orderedPrimes(10) = [2, 3, 4, 5, 7, 8, 9, 11, 13, 16]
 
 For starters, instead of primes, we can restrict this to  2,3,5
 
 In this case for an input of 10, we have
 orderedPowers(10) = [2, 3, 4, 5, 8, 9, 16, 25, 27, 32]
 
+[Code](./powersOfPrimes)
 
 
